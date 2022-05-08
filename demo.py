@@ -1,1 +1,1 @@
-def reg(firstname,lastname,username,password):
+def reg(firstname,lastname,username,email,password):
